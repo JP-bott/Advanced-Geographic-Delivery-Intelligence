@@ -1,7 +1,12 @@
-node_modules/
-frontend/dist/
 __pycache__/
 .pytest_cache/
+.ipynb_checkpoints/
 .venv/
+venv/
 .env
-*.pyc
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+frontend/node_modules/
+frontend/dist/
+*.log

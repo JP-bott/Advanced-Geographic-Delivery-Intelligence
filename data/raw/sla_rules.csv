@@ -1,0 +1,115 @@
+SLA_ID,Service_Type,Origin_Region,Destination_Region,SLA_Days
+SLA0001,Same Day,CALABARZON,CALABARZON,0
+SLA0002,Express,CALABARZON,CALABARZON,1
+SLA0003,Standard,CALABARZON,CALABARZON,2
+SLA0004,Economy,CALABARZON,CALABARZON,4
+SLA0005,Express,CALABARZON,Central Luzon,2
+SLA0006,Standard,CALABARZON,Central Luzon,3
+SLA0007,Economy,CALABARZON,Central Luzon,5
+SLA0008,Express,CALABARZON,Central Visayas,4
+SLA0009,Standard,CALABARZON,Central Visayas,5
+SLA0010,Economy,CALABARZON,Central Visayas,7
+SLA0011,Express,CALABARZON,Davao Region,4
+SLA0012,Standard,CALABARZON,Davao Region,5
+SLA0013,Economy,CALABARZON,Davao Region,7
+SLA0014,Express,CALABARZON,NCR,2
+SLA0015,Standard,CALABARZON,NCR,3
+SLA0016,Economy,CALABARZON,NCR,5
+SLA0017,Express,CALABARZON,Western Visayas,4
+SLA0018,Standard,CALABARZON,Western Visayas,5
+SLA0019,Economy,CALABARZON,Western Visayas,7
+SLA0020,Express,Central Luzon,CALABARZON,2
+SLA0021,Standard,Central Luzon,CALABARZON,3
+SLA0022,Economy,Central Luzon,CALABARZON,5
+SLA0023,Same Day,Central Luzon,Central Luzon,0
+SLA0024,Express,Central Luzon,Central Luzon,1
+SLA0025,Standard,Central Luzon,Central Luzon,2
+SLA0026,Economy,Central Luzon,Central Luzon,4
+SLA0027,Express,Central Luzon,Central Visayas,4
+SLA0028,Standard,Central Luzon,Central Visayas,5
+SLA0029,Economy,Central Luzon,Central Visayas,7
+SLA0030,Express,Central Luzon,Davao Region,4
+SLA0031,Standard,Central Luzon,Davao Region,5
+SLA0032,Economy,Central Luzon,Davao Region,7
+SLA0033,Express,Central Luzon,NCR,2
+SLA0034,Standard,Central Luzon,NCR,3
+SLA0035,Economy,Central Luzon,NCR,5
+SLA0036,Express,Central Luzon,Western Visayas,4
+SLA0037,Standard,Central Luzon,Western Visayas,5
+SLA0038,Economy,Central Luzon,Western Visayas,7
+SLA0039,Express,Central Visayas,CALABARZON,4
+SLA0040,Standard,Central Visayas,CALABARZON,5
+SLA0041,Economy,Central Visayas,CALABARZON,7
+SLA0042,Express,Central Visayas,Central Luzon,4
+SLA0043,Standard,Central Visayas,Central Luzon,5
+SLA0044,Economy,Central Visayas,Central Luzon,7
+SLA0045,Same Day,Central Visayas,Central Visayas,0
+SLA0046,Express,Central Visayas,Central Visayas,1
+SLA0047,Standard,Central Visayas,Central Visayas,2
+SLA0048,Economy,Central Visayas,Central Visayas,4
+SLA0049,Express,Central Visayas,Davao Region,4
+SLA0050,Standard,Central Visayas,Davao Region,5
+SLA0051,Economy,Central Visayas,Davao Region,7
+SLA0052,Express,Central Visayas,NCR,4
+SLA0053,Standard,Central Visayas,NCR,5
+SLA0054,Economy,Central Visayas,NCR,7
+SLA0055,Express,Central Visayas,Western Visayas,4
+SLA0056,Standard,Central Visayas,Western Visayas,5
+SLA0057,Economy,Central Visayas,Western Visayas,7
+SLA0058,Express,Davao Region,CALABARZON,4
+SLA0059,Standard,Davao Region,CALABARZON,5
+SLA0060,Economy,Davao Region,CALABARZON,7
+SLA0061,Express,Davao Region,Central Luzon,4
+SLA0062,Standard,Davao Region,Central Luzon,5
+SLA0063,Economy,Davao Region,Central Luzon,7
+SLA0064,Express,Davao Region,Central Visayas,4
+SLA0065,Standard,Davao Region,Central Visayas,5
+SLA0066,Economy,Davao Region,Central Visayas,7
+SLA0067,Same Day,Davao Region,Davao Region,0
+SLA0068,Express,Davao Region,Davao Region,1
+SLA0069,Standard,Davao Region,Davao Region,2
+SLA0070,Economy,Davao Region,Davao Region,4
+SLA0071,Express,Davao Region,NCR,4
+SLA0072,Standard,Davao Region,NCR,5
+SLA0073,Economy,Davao Region,NCR,7
+SLA0074,Express,Davao Region,Western Visayas,4
+SLA0075,Standard,Davao Region,Western Visayas,5
+SLA0076,Economy,Davao Region,Western Visayas,7
+SLA0077,Express,NCR,CALABARZON,2
+SLA0078,Standard,NCR,CALABARZON,3
+SLA0079,Economy,NCR,CALABARZON,5
+SLA0080,Express,NCR,Central Luzon,2
+SLA0081,Standard,NCR,Central Luzon,3
+SLA0082,Economy,NCR,Central Luzon,5
+SLA0083,Express,NCR,Central Visayas,4
+SLA0084,Standard,NCR,Central Visayas,5
+SLA0085,Economy,NCR,Central Visayas,7
+SLA0086,Express,NCR,Davao Region,4
+SLA0087,Standard,NCR,Davao Region,5
+SLA0088,Economy,NCR,Davao Region,7
+SLA0089,Same Day,NCR,NCR,0
+SLA0090,Express,NCR,NCR,1
+SLA0091,Standard,NCR,NCR,2
+SLA0092,Economy,NCR,NCR,4
+SLA0093,Express,NCR,Western Visayas,4
+SLA0094,Standard,NCR,Western Visayas,5
+SLA0095,Economy,NCR,Western Visayas,7
+SLA0096,Express,Western Visayas,CALABARZON,4
+SLA0097,Standard,Western Visayas,CALABARZON,5
+SLA0098,Economy,Western Visayas,CALABARZON,7
+SLA0099,Express,Western Visayas,Central Luzon,4
+SLA0100,Standard,Western Visayas,Central Luzon,5
+SLA0101,Economy,Western Visayas,Central Luzon,7
+SLA0102,Express,Western Visayas,Central Visayas,4
+SLA0103,Standard,Western Visayas,Central Visayas,5
+SLA0104,Economy,Western Visayas,Central Visayas,7
+SLA0105,Express,Western Visayas,Davao Region,4
+SLA0106,Standard,Western Visayas,Davao Region,5
+SLA0107,Economy,Western Visayas,Davao Region,7
+SLA0108,Express,Western Visayas,NCR,4
+SLA0109,Standard,Western Visayas,NCR,5
+SLA0110,Economy,Western Visayas,NCR,7
+SLA0111,Same Day,Western Visayas,Western Visayas,0
+SLA0112,Express,Western Visayas,Western Visayas,1
+SLA0113,Standard,Western Visayas,Western Visayas,2
+SLA0114,Economy,Western Visayas,Western Visayas,4

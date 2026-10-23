@@ -1,0 +1,13 @@
+Hub_ID,Hub_Name,Region,Province,City,Latitude,Longitude,Hub_Type
+H01,Quezon City Hub,NCR,Metro Manila,Quezon City,14.676,121.0437,Primary Hub
+H02,Pasig Distribution Center,NCR,Metro Manila,Pasig,14.5764,121.0851,Sorting Hub
+H03,Manila Central Hub,NCR,Metro Manila,Manila,14.5995,120.9842,Primary Hub
+H04,Bulacan Sorting Facility,Central Luzon,Bulacan,Malolos,14.8433,120.8114,Sorting Hub
+H05,Pampanga Regional Hub,Central Luzon,Pampanga,San Fernando,15.0285,120.6898,Regional Hub
+H06,Cavite Delivery Hub,CALABARZON,Cavite,Dasmariñas,14.3294,120.9367,Delivery Hub
+H07,Laguna Delivery Hub,CALABARZON,Laguna,Calamba,14.2117,121.1653,Delivery Hub
+H08,Rizal Delivery Hub,CALABARZON,Rizal,Antipolo,14.6255,121.1245,Delivery Hub
+H09,Batangas Regional Hub,CALABARZON,Batangas,Batangas City,13.7565,121.0583,Regional Hub
+H10,Cebu Distribution Center,Central Visayas,Cebu,Cebu City,10.3157,123.8854,Regional Hub
+H11,Iloilo Regional Hub,Western Visayas,Iloilo,Iloilo City,10.7202,122.5621,Regional Hub
+H12,Davao Regional Hub,Davao Region,Davao del Sur,Davao City,7.0731,125.6128,Regional Hub

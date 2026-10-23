@@ -1,0 +1,390 @@
+{
+  "type": "FeatureCollection",
+  "name": "NexRoute synthetic city center reference points",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Quezon City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0437,
+          14.676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Manila",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Pasig",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0851,
+          14.5764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Taguig",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509,
+          14.5176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Makati",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0244,
+          14.5547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "NCR",
+        "province": "Metro Manila",
+        "city": "Caloocan",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9668,
+          14.6507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Luzon",
+        "province": "Bulacan",
+        "city": "Malolos",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8114,
+          14.8433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Luzon",
+        "province": "Bulacan",
+        "city": "Meycauayan",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96,
+          14.736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Luzon",
+        "province": "Pampanga",
+        "city": "San Fernando",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6898,
+          15.0285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Luzon",
+        "province": "Pampanga",
+        "city": "Angeles",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5887,
+          15.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Cavite",
+        "city": "Bacoor",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9645,
+          14.4624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Cavite",
+        "city": "Dasmariñas",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9367,
+          14.3294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Laguna",
+        "city": "Santa Rosa",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1114,
+          14.3122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Laguna",
+        "city": "Calamba",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1653,
+          14.2117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Rizal",
+        "city": "Antipolo",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1245,
+          14.6255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Rizal",
+        "city": "Cainta",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1222,
+          14.5786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Batangas",
+        "city": "Batangas City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0583,
+          13.7565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "CALABARZON",
+        "province": "Batangas",
+        "city": "Lipa",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1622,
+          13.9411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city": "Cebu City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8854,
+          10.3157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city": "Mandaue",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9225,
+          10.3236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city": "Lapu-Lapu City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9494,
+          10.3103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Western Visayas",
+        "province": "Iloilo",
+        "city": "Iloilo City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5621,
+          10.7202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Western Visayas",
+        "province": "Iloilo",
+        "city": "Pavia",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5453,
+          10.7758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Davao Region",
+        "province": "Davao del Sur",
+        "city": "Davao City",
+        "note": "Approximate representative city-center location; not a street address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6128,
+          7.0731
+        ]
+      }
+    }
+  ]
+}

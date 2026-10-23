@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 108" role="img" aria-label="NexRoute Logistics Intelligence logo">
+<rect width="420" height="108" fill="#0B1420"/>
+<g transform="translate(14,18)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+<path d="M10 57 L35 32 L61 49 L83 13" stroke="#2DD4BF" stroke-width="9"/>
+<path d="M67 13 H83 V29" stroke="#4C9AFF" stroke-width="9"/>
+<circle cx="10" cy="57" r="7" fill="#4C9AFF" stroke="#0B1420" stroke-width="3"/>
+<circle cx="35" cy="32" r="7" fill="#2DD4BF" stroke="#0B1420" stroke-width="3"/>
+</g><text x="115" y="57" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#E8EEF5">NEX<tspan fill="#2DD4BF">ROUTE</tspan></text>
+<text x="116" y="79" font-family="Arial,sans-serif" font-size="13" letter-spacing="2.6" fill="#95A7B8">LOGISTICS INTELLIGENCE</text></svg>
