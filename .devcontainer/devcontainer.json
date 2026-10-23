@@ -1,0 +1,1 @@
+{"name":"NexRoute Geographic Intelligence","image":"mcr.microsoft.com/devcontainers/python:1-3.11-bookworm","features":{"ghcr.io/devcontainers/features/node:1":{"version":"22"}},"forwardPorts":[8000,5173,8501],"portsAttributes":{"5173":{"label":"NexRoute Control Tower","onAutoForward":"openBrowser"},"8000":{"label":"FastAPI backend"},"8501":{"label":"Streamlit original"}}}
